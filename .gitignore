@@ -1,0 +1,38 @@
+# Compilados Java
+*.class
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+
+# Diretórios de build
+/bin/
+/build/
+/out/
+/target/
+
+# IDEs
+
+## Eclipse
+.project
+.classpath
+.settings/
+
+## IntelliJ
+.idea/
+*.iml
+
+## VS Code
+.vscode/
+
+# Sistema operacional
+
+## Windows
+Thumbs.db
+
+## Mac
+.DS_Store
