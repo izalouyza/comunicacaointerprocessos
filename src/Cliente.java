@@ -63,7 +63,6 @@ public class Cliente {
                     break;
                 }
 
-                // Separador visual entre mensagens
                 System.out.println("---------------------------------");
             }
 
